@@ -1,1 +1,1 @@
-# cis522_class_project
+# cis622_class_project
